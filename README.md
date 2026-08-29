@@ -2,7 +2,7 @@
 > *Roteiro de estudos organizado por módulos e prioridades.*
 
 > [!NOTE]
-> *(Marcados com ✅ é o que você precisa estar estudando ultimamente, o resto é para o decorrer do curso, amor)*
+> *(Marcados com ![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen) é o que você precisa estar estudando ultimamente, o resto é para o decorrer do curso, amor)*
 
 ---
 
