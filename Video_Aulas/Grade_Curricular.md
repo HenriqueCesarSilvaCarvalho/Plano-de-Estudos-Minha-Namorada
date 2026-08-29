@@ -1,85 +1,51 @@
-##### 1\. Biossistemas do Corpo Humano
+# 1. Biossistemas do Corpo Humano
 
-(marcados com \[x], é o que você precisa estar estudando ultimamente, o resto é para o decorrer do curso amor)
+> *(Marcados com `[x]` é o que você precisa estudar ultimamente, o resto é para o decorrer do curso, amor)*
 
-###### 
+---
 
-###### 1- Introdução Anatômica:
+## 1. Introdução Anatômica
 
+- [x] **INTRODUÇÃO À ANATOMIA** — Posição anatômica e termos de relação  
+  👉 [Assistir Vídeo](https://www.youtube.com/watch?v=5c3Pp-b7uwc)
 
+- [x] **Movimentos do corpo humano** — Anatomia e Cinesiologia | Anatomia etc  
+  👉 [Assistir Vídeo](https://youtu.be/ngrsBhZaLZ4)
 
-* INTRODUÇÃO À ANATOMIA- Posição anatômica e termos de relação: \[x]
+- [x] **Planos Anatômicos e Eixos de Movimento** — Introdução à Anatomia parte 2  
+  👉 [Assistir Vídeo](https://youtu.be/yIzz0iq3ZqA)
 
-&#x09;https://www.youtube.com/watch?v=5c3Pp-b7uwc
+---
 
+## 2. Visão Geral dos Sistemas
 
+### 🦴 Sistema Locomotor
 
-* Movimentos do corpo humano. Anatomia e Cinesiologia | Anatomia etc: \[x]
+1. **Sistema Esquelético** `[x]`
+   - [Assistir Vídeo Principal](https://youtu.be/INYoiieRVq0)
+   - *Vídeo Complementar (não se faz necessário):* [Assistir Vídeo](https://youtu.be/ngrsBhZaLZ4)
 
-&#x09;https://youtu.be/ngrsBhZaLZ4
+2. **Articulações** `[x]`
+   - [Assistir Vídeo](https://www.youtube.com/watch?v=RsanA4Cb24Q)
+   - [Mapa Mental](https://www.youtube.com/watch?v=REsSlha9Zhw)
 
+3. **Sistema Muscular**
+   - [Assistir Playlist](https://youtu.be/bmXtg8Jjblg?list=PLuVkjn_QpdM-suDC00o_2CE-pZ8VPzdRW)
 
+---
 
-* Planos Anatômicos e Eixos de Movimento: Introdução à Anatomia parte 2 (continuação do de cima): \[x]
+### 🧠 Sistema Nervoso
 
-&#x09;https://youtu.be/yIzz0iq3ZqA
+- [Assistir Vídeo Part 1](https://youtu.be/I-OO-4Dhosw)
+- [Assistir Vídeo Part 2](https://www.youtube.com/watch?v=4p4GBvtl7X0)
 
-###### 
+---
 
-###### 2- Visão Geral dos Sistemas:
+### 🫀 Sistema de Suporte
 
+1. **Sistema Cardiorrespiratório**
+   - [Assistir Aula 1](https://youtu.be/RBh2lHA3LTE)
+   - [Assistir Aula 2](https://youtu.be/Cnsg3YOJ_58)
 
-
-* Sistema Locomotor:
-
-&#x09;1- Sistema Esquelético \[x]
-
-&#x09;	https://youtu.be/INYoiieRVq0
-		Vídeo Complementar (Não se faz necessário):
-
-&#x09;	https://youtu.be/ngrsBhZaLZ4
-
-
-
-&#x09;2- Articulações \[x]
-
-&#x09;	https://www.youtube.com/watch?v=RsanA4Cb24Q 
-
-&#x09;	https://www.youtube.com/watch?v=REsSlha9Zhw (mapa mental)
-
-
-
-&#x09;3- Sistema Muscular:
-
-&#x09;	https://youtu.be/bmXtg8JjbIg?list=PLuVkjn\_QpdM-suDC00o\_2CE-pZ8VPzdRW
-
-
-
-* Sistema Nervoso:
-
-&#x09;https://youtu.be/I-OO-4Dhosw
-
-&#x09;https://www.youtube.com/watch?v=4p4GBvtl7X0
-
-&#x09;
-
-&#x09;
-
-* Sistema de Suporte:
-
-&#x09;1- Sistema Cardiorrespiratório:
-
-&#x09;	https://youtu.be/RBh2lHA3LTE
-
-&#x09;	https://youtu.be/Cnsg3Y0J\_58
-
-
-
-&#x09;2- Sistema Tegumentar:
-
-&#x09;	https://www.youtube.com/watch?v=7DkTGMMZZ3w
-
-&#x09;
-
-
-
+2. **Sistema Tegumentar**
+   - [Assistir Aula](https://www.youtube.com/watch?v=7DkTGMMZZ3w)
