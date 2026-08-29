@@ -6,13 +6,13 @@
 
 ## 1. Introdução Anatômica
 
-- [x] **INTRODUÇÃO À ANATOMIA** — Posição anatômica e termos de relação  
+- `[x]` **INTRODUÇÃO À ANATOMIA** — Posição anatômica e termos de relação  
   👉 [Assistir Vídeo](https://www.youtube.com/watch?v=5c3Pp-b7uwc)
 
-- [x] **Movimentos do corpo humano** — Anatomia e Cinesiologia | Anatomia etc  
+- `[x]` **Movimentos do corpo humano** — Anatomia e Cinesiologia | Anatomia etc  
   👉 [Assistir Vídeo](https://youtu.be/ngrsBhZaLZ4)
 
-- [x] **Planos Anatômicos e Eixos de Movimento** — Introdução à Anatomia parte 2  
+- `[x]` **Planos Anatômicos e Eixos de Movimento** — Introdução à Anatomia parte 2  
   👉 [Assistir Vídeo](https://youtu.be/yIzz0iq3ZqA)
 
 ---
