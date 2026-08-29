@@ -32,6 +32,8 @@
 3. ⏳ **Sistema Muscular**
    - [Playlist Completa](https://youtu.be/bmXtg8JjbIg?list=PLuVkjn_QpdM-suDC00o_2CE-pZ8VPzdRW)
 
+4. **Resumo COMPLETO**
+   - [Assistir Resumo Completo](https://youtu.be/8Jag8Bn31ds)
 ---
 
 ### 🧠 Sistema Nervoso ⏳
