@@ -66,5 +66,5 @@
 
 ### 🥚 Embriologia ⏳
 
-- ✅ [Assistir Vídeo](https://youtu.be/p4DZ9HrOSeE)
+- [Assistir Vídeo](https://youtu.be/p4DZ9HrOSeE)
 
