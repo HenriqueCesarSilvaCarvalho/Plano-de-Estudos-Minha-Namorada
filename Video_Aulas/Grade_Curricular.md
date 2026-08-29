@@ -60,11 +60,11 @@
 
 ### ⚖️ Homeostase
 
-- ✅ - [Assistir Vídeo] (https://youtu.be/mjrcoQE6kcE)
+- ✅ [Assistir Vídeo](https://youtu.be/mjrcoQE6kcE)
 
 ---
 
 ### 🥚 Embriologia ⏳
 
-- ✅ - [Assistir Vídeo] (https://youtu.be/p4DZ9HrOSeE)
+- ✅ [Assistir Vídeo] (https://youtu.be/p4DZ9HrOSeE)
 
