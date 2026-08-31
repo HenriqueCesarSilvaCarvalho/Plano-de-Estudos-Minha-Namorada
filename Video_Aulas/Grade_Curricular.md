@@ -100,13 +100,11 @@
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-
-
 ### 🛡️ Membrana Plasmática & Transporte
 
 - ✅ **Citologia 2/2: Membrana Plasmática — Anatomia e etc.** — Natalia Reinecke
 
-  👉 [Assistir Aula](https://www.youtube.com/watch?v=3mjbqFkKINE)
+  👉 [Assistir Aula](https://youtu.be/l9u6xGPdOrs0)
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
@@ -116,7 +114,7 @@
 
 - ✅ **Citologia 1/2: Estrutura Básica das Células — Anatomia e etc.** — Natalia Reinecke
 
-  👉 [Assistir Aula](https://www.youtube.com/watch?v=3mjbqFkKINE)
+  👉 [Assistir Aula](https://youtu.be/YB-zfUXDBHA)
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
@@ -127,7 +125,7 @@
 ### 🧪 Biomoléculas
 - ✅ **BIOMOLÉCULAS** — Prof. Louise Medeiros  
 
-  👉 [Assistir Aula] (https://youtu.be/lGPk1hOPtGE)
+  👉 [Assistir Aula](https://youtu.be/lGPk1hOPtGE)
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
