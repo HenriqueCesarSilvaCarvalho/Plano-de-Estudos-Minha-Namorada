@@ -65,10 +65,10 @@
 * **Conteúdo:** Estrutura da Pele e Anexos.
 
 <br>
-
-<table width="100%"><tr><td bgcolor="#ec80d1" height="3px"></td></tr></table>
-
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat" width="100%" style="height: 8px; object-fit: cover;" />
 <br>
+
+<br><br>
 
 # 🔬 Processos Biológicos
 > *Roteiro de estudos organizado por módulos e prioridades.*
