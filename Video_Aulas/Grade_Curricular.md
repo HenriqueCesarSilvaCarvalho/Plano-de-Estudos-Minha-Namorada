@@ -85,10 +85,6 @@
 
 > *(Marcados com ✅ é o que você precisa estar estudando ultimamente, o resto é para o decorrer do curso, amor)*
 
-<br>
-<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
-<br>
-
 ## 1. Biologia Celular
 
 ### 🔄 Ciclo Celular
