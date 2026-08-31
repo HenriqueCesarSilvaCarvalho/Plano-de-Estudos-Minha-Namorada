@@ -79,6 +79,7 @@
 <br>
 
 ## 🦠 Módulo I: Biologia Celular
+![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
 
 ### 1. Ciclo_Celular
 ![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
@@ -111,7 +112,7 @@
 <br>
 
 ## 🧪 Módulo II: Bioquímica Básica
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
 
 ### 1. Biomoleculas
 ![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
@@ -142,7 +143,7 @@
 <br>
 
 ## 🧫 Módulo III: Histologia Básica
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 
 ### 1. Tecido_Conjuntivo
 ![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
