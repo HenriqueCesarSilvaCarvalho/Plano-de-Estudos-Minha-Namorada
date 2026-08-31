@@ -27,7 +27,7 @@
 * **Conteúdo:** Divisão Axial vs. Apendicular, Estrutura Óssea e Classificação dos Ossos.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ### 2. Sistema Articular
@@ -35,7 +35,7 @@
 * **Conteúdo:** Classificação Estrutural e Funcional (Fibrosas, Cartilagíneas e Sinoviais).
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ### 3. Sistema Muscular
@@ -43,7 +43,7 @@
 * **Conteúdo:** Tipos de Tecidos, Organização (Epimísio, Perimísio, Endomísio) e Ações (Agonista/Antagonista).
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ## 🧠 Módulo III: Sistema Nervoso
@@ -52,7 +52,7 @@
 * **Conteúdo:** Organização SNC vs. SNP, Divisão Somática/Autônoma, Neurônios e Sinapses.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ## 🫀 Módulo IV: Sistemas de Suporte e Integração
@@ -77,7 +77,7 @@
 > *(Marcados com ![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen) é o que você precisa estar estudando ultimamente, o resto é para o decorrer do curso, amor)*
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ## 🦠 Módulo I: Biologia Celular
@@ -86,7 +86,7 @@
 * **Conteúdo:** Interfase (G1, S, G2), Mitose, Meiose (*crossing-over*) e Morte Celular (Apoptose/Necrose).
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
@@ -96,7 +96,7 @@
 * **Conteúdo:** Especializações, Transporte (Difusão, Osmose, Bomba $Na^+/K^+$, Endocitose/Exocitose) e Sinalização Celular.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
@@ -106,7 +106,7 @@
 * **Conteúdo:** Estrutura Celular (Citoplasma, Retículo Endoplasmático, Complexo de Golgi, Mitocôndrias e Lisossomos).
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ## 🧪 Módulo II: Bioquímica Básica
@@ -117,7 +117,7 @@
 * **Conteúdo:** Estrutura e função de Carboidratos, Lipídios e Proteínas, além de Enzimologia e Cofatores.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
@@ -127,7 +127,7 @@
 * **Conteúdo:** Replicação do DNA, Expressão Gênica (Transcrição e Tradução) e Regulação Gênica.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
@@ -137,7 +137,7 @@
 * **Conteúdo:** Glicólise, Ciclo de Krebs e Cadeia Respiratória / Fosforilação Oxidativa (ATP).
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ## 🧫 Módulo III: Histologia Básica
@@ -148,7 +148,7 @@
 * **Conteúdo:** Matriz Extracelular e variedades (Frouxo, Denso, Adiposo, Cartilaginoso e Ósseo).
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
@@ -158,7 +158,7 @@
 * **Conteúdo:** Revestimento, Secreção Glandular e Junções Celulares.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
@@ -168,7 +168,7 @@
 * **Conteúdo:** Mecanismo molecular da contração e Tipos de Fibras Musculares.
 
 <br>
-<hr style="height: 0.5px; border: none; background-color: #ec80d1; margin: 0; padding: 0;" />
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
 ![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
