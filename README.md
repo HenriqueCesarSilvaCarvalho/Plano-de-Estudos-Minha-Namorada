@@ -68,8 +68,6 @@
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat" width="100%" style="height: 8px; object-fit: cover;" />
 <br>
 
-<br><br>
-
 # 🔬 Processos Biológicos
 > *Roteiro de estudos organizado por módulos e prioridades.*
 
