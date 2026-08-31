@@ -104,7 +104,7 @@
 ### 🛡️ Membrana Plasmática
 
 1. ✅ **Membrana Plasmática e Transporte**
-   - 👉 [Assistir Aula](https://www.youtube.com/watch?v=l9u6xGPdOrs) `[Revisão]` 
+   - 👉 [Assistir Aula](https://www.youtube.com/watch?v=l9u6xGPdOrs)
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
@@ -132,6 +132,10 @@
 
 3. ⏳ **Respiração Celular Integrada**
    - 👉 [Assistir Aula](https://youtu.be/zIj9nG0BS98)
+
+<br>
+<img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
+<br>
 
 ## 3. Histologia Básica ⏳
 
