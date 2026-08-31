@@ -79,17 +79,19 @@
 <br>
 
 ## 🦠 Módulo I: Biologia Celular
-![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
+
 ### 1. Ciclo_Celular
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 * **Conteúdo:** Interfase (G1, S, G2), Mitose, Meiose (*crossing-over*) e Morte Celular (Apoptose/Necrose).
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
+
 
 ### 2. Membrana_Plasmática&Transporte
+![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
 
 * **Conteúdo:** Especializações, Transporte (Difusão, Osmose, Bomba $Na^+/K^+$, Endocitose/Exocitose) e Sinalização Celular.
 
@@ -97,9 +99,10 @@
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
+
 
 ### 3. Organelas_Celulares
+![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
 
 * **Conteúdo:** Estrutura Celular (Citoplasma, Retículo Endoplasmático, Complexo de Golgi, Mitocôndrias e Lisossomos).
 
@@ -108,30 +111,30 @@
 <br>
 
 ## 🧪 Módulo II: Bioquímica Básica
-![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
+
 
 ### 1. Biomoleculas
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
 * **Conteúdo:** Estrutura e função de Carboidratos, Lipídios e Proteínas, além de Enzimologia e Cofatores.
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
+
 
 ### 2. DNA_RNA_Proteina
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 * **Conteúdo:** Replicação do DNA, Expressão Gênica (Transcrição e Tradução) e Regulação Gênica.
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
+
 
 ### 3. Metabolismo_Energetico
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Obrigat%C3%B3rio-brightgreen)
 * **Conteúdo:** Glicólise, Ciclo de Krebs e Cadeia Respiratória / Fosforilação Oxidativa (ATP).
 
 <br>
@@ -139,38 +142,38 @@
 <br>
 
 ## 🧫 Módulo III: Histologia Básica
-![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
+
 
 ### 1. Tecido_Conjuntivo
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 * **Conteúdo:** Matriz Extracelular e variedades (Frouxo, Denso, Adiposo, Cartilaginoso e Ósseo).
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
+
 
 ### 2. Tecido_Epitelial
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 * **Conteúdo:** Revestimento, Secreção Glandular e Junções Celulares.
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
+
 
 ### 3. Tecido_Muscular
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 * **Conteúdo:** Mecanismo molecular da contração e Tipos de Fibras Musculares.
 
 <br>
 <img src="https://img.shields.io/badge/-%20-ec80d1?style=flat&height=1" width="100%" height="2" />
 <br>
 
-![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
+
 
 ### 4. Tecido_Nervoso
-
+![Prioridade](https://img.shields.io/badge/Prioridade-Em_Breve-blue)
 * **Conteúdo:** Neurônios, Células da Glia, Condução do Impulso Elétrico e Potencial de Ação.
